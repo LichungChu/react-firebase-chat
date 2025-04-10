@@ -15,6 +15,10 @@
 - 網站架設：Firebase Hosting 掛在網站
 - 狀態同步：Zustand管理跨元件狀態
 
+## Demo
+
+- 網站位置：[測試網站](https://reactchat-99823.web.app/)
+  
 ---
 
 # Firebase 各項功能設置說明
