@@ -12,7 +12,7 @@
 - 檔案儲存：Firebase Storage 處理圖片/檔案
 - 資料儲存：Firebase Database 使用者對話紀錄
 - 權限管理：Firebase Authentication 使用者登入
-- 網站架設：Firebase Hosting 掛在網站
+- 網站架設：Firebase Hosting 掛載網站
 - 狀態同步：Zustand管理跨元件狀態
 
 ## Demo
